@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855548818069",
+    "project_id": "onlinecourses-2185d",
+    "storage_bucket": "onlinecourses-2185d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855548818069:android:966f5f0645f4473a62219c",
+        "android_client_info": {
+          "package_name": "app.lodemsu.authtestfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855548818069-e3u35qbv60jnnku9t0itapn8q0op0235.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bHMGycD-ZX8FHHZEb1Xkg5sMDB2c-Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855548818069-e3u35qbv60jnnku9t0itapn8q0op0235.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
